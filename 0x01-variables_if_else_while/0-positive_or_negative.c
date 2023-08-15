@@ -6,10 +6,11 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Checks if a number is greater than zero, less than zero, or equal to zero
+ * main - Determines if a number is positive, negative or zero.
  *
- * ٌReturn: return 0 always
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
