@@ -3,10 +3,11 @@
 /**
  * main - check the code
  *
+ * print_alphabet - print all alphabet in lowercase
  * Return: Always 0.
  * nada hesham
  */
-int main(void)
+
 void print_alphabet(void)
 {
 	char letter;
