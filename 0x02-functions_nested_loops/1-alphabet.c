@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
  * print_alphabet - print all alphabet in lowercase
- * Return: Always 0.
- * nada hesham
+ * nada hesam
  */
+
 
 void print_alphabet(void)
 {
